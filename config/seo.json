@@ -1,14 +1,14 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Ayush's Store",
+  "titleTemplate": "",
+  "description": "E-Commerce",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Ayush's Store",
+    "description": "E-Commerce",
     "type": "website",
     "locale": "en_IE",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://findayush.github.io",
+    "site_name": "Ayush's E=-ommerce",
     "images": [
       {
         "url": "/card.png",
@@ -19,8 +19,8 @@
     ]
   },
   "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
+    "handle": "@ayush485",
+    "site": "@ayush485",
     "cardType": "summary_large_image"
   }
 }
