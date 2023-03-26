@@ -12,7 +12,7 @@ Demo live at: [https://ayush-ecom.vercel.app/](https://ayush-ecom.vercel.app/)
 - UI Components
 - Theming
 - Standardized Data Hooks
-- Integrations - Integrate seamlessly with the most common ecommerce platforms.
+- Integration - Integrate seamlessly with the most common ecommerce platforms.
 - Dark Mode Support
 
 ## Contribute
