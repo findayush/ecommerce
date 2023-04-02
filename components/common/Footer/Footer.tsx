@@ -36,7 +36,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
                 <span className="rounded-full border border-accent-6 mr-2">
                   <Logo />
                 </span>
-                <span>Ayush's Store</span>
+                <span>Ayush's Store </span>
               </a>
             </Link>
           </div>
